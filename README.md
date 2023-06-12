@@ -13,3 +13,6 @@ Motivación
 
 Este proyecto fue creado como una forma de aplicar y mejorar mis habilidades en programación y desarrollo web, mientras se crea una herramienta útil para la gestión personal de las finanzas.
 
+Tambien uno de los objetivos es optimizar las finanzas de otras personas con el fin de que cada persona que lo utilice pueda mejorar su vida financiera.
+
+
